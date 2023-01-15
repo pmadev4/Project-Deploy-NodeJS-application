@@ -1,0 +1,4 @@
+version: 1.0.0 
+location: /home/ubuntu 
+nodejs_user: nodejs
+user_home_dir: /home/{{nodejs_user}}
